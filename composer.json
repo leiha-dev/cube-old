@@ -1,0 +1,7 @@
+{
+    "name": "lia/intranet",
+    "require": {} ,
+    "autoload": {
+        "psr-4": {"Cube\\": "vendor/cube/Cube/"}
+    }
+}
